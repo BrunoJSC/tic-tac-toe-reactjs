@@ -1,7 +1,7 @@
 # Jogo da Velha em ReactJS <br />
 
 Este projeto é um jogo da velha implementado em ReactJS, que pode ser jogado por duas pessoas. <br />
-O jogo foi criado com base no tutorial do site oficial do React, mas com algumas modificações e melhorias adicionais.
+O jogo foi criado com base no tutorial do site oficial do React.
 
 # Como jogar <br />
 O jogo pode ser jogado por duas pessoas, que devem alternar jogadas clicando em uma das casas disponíveis no tabuleiro. <br />
